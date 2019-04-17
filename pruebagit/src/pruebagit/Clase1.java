@@ -21,6 +21,11 @@ public class Clase1 {
     public void tercerMetodo(){
      System.out.println("TengoSueño");
     }
+    
+    public void cuartoMetodo(){
+        System.out.println("JulietaHermosa");
+    
+    }
 }
 
     
