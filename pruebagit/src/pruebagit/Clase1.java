@@ -13,7 +13,11 @@ public class Clase1 {
  
     public void unMetodo(){
         System.out.println("hola");}
-    
-    
-  
+
+    public void segundoMetodo(){
+        System.out.println("vicki");
+
 }
+}    
+    
+ 
