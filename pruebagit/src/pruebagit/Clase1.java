@@ -18,6 +18,10 @@ public class Clase1 {
         System.out.println("vicki");
 
 }
-}    
+    public void tercerMetodo(){
+     System.out.println("TengoSueño");
+    }
+}
+
     
  
